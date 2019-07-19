@@ -1,0 +1,20 @@
+\t (00:00:06) allegro 16.6 S034 (v16-6-112CQ) Windows 32
+\t (00:00:06)     Journal start - Fri Jul 19 09:40:22 2019
+\t (00:00:06)         Host=USER-PC User=user Pid=6664 CPUs=4
+\t (00:00:06) CmdLine= allegro.exe -p .
+\t (00:00:06) 
+   (00:00:06) ilinit Start.
+   (00:00:06) "C:/Users/user/Desktop/vscode_orcad/home/pcbenv"
+\t (00:00:07) Starting new design...
+\i (00:00:07) trapsize 1627
+\i (00:00:07) trapsize 1598
+\i (00:00:07) trapsize 1632
+\i (00:00:07) trapsize 1743
+\i (00:00:07) trapsize 2685
+\i (00:00:08) generaledit 
+\i (00:00:29) open 
+\i (00:00:33) fillin "C:\Users\user\Desktop\work\avrusb\allegro\AVRUSB500.brd"
+\i (00:00:33) cd "C:\Users\user\Desktop\work\avrusb\allegro"
+\t (00:00:33) Opening existing design...
+\i (00:00:33) trapsize 6530
+\t (00:00:33)     Journal end - Fri Jul 19 09:40:50 2019

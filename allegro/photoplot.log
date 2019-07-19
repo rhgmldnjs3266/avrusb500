@@ -1,0 +1,526 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    ARTWORK LOG                                                      )
+(                                                                     )
+(    Drawing          : AVRUSB500.brd                                 )
+(    Software Version : 16.6S034                                      )
+(    Date/Time        : Fri Jul 19 14:13:12 2019                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+
+ ******************************************
+ WARNING: DRC OUT OF DATE on this layout.
+ ******************************************
+
+ ---- Photoplot outline rectangle not found; using drawing extents.
+
+
+
+Results from parameter file ...
+    DEVICE-TYPE           GERBER_RS274X
+    OUTPUT-UNITS          MM
+    FILM-SIZE             2400000 1600000
+    FORMAT                5.5
+    ABORT-ON-ERROR        NO
+    SCALE                 1
+    SUPPRESS-LEAD-ZEROES  YES
+    SUPPRESS-TRAIL-ZEROES NO
+    SUPPRESS-EQUAL        YES
+    UNDEF-APT-CONT        NO
+
+
+================================================================
+     PROCESSING FILM < metalB >
+     TO FILE < C:/Users/user/Desktop/work/avrusb/allegro/gerber/metalB.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.0000
+  Suppress shape fill on neg film     NO
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.0000
+  Offset y:                           0.0000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED:  NONE
+     metalB created with warnings
+
+
+================================================================
+     PROCESSING FILM < metalT >
+     TO FILE < C:/Users/user/Desktop/work/avrusb/allegro/gerber/metalT.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.0000
+  Suppress shape fill on neg film     NO
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.0000
+  Offset y:                           0.0000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  RECTANGLE  0.40000     x 1.72010      90.000 NO     DARK 
+  RECTANGLE  1.10010     x 1.72010      90.000 NO     DARK 
+  RECTANGLE  1.77800     x 0.45690       0.000 NO     DARK 
+  RECTANGLE  1.77800     x 0.45690      90.000 NO     DARK 
+  OBLONG     1.77800     x 0.45690       0.000 NO     DARK 
+  OBLONG     1.77800     x 0.45690      90.000 NO     DARK 
+
+     metalT created with warnings
+
+
+================================================================
+     PROCESSING FILM < solderB >
+     TO FILE < C:/Users/user/Desktop/work/avrusb/allegro/gerber/solderB.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.0000
+  Suppress shape fill on neg film     NO
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.0000
+  Offset y:                           0.0000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     1.11800                                  DARK 
+  CIRCLE     1.32110                                  DARK 
+  CIRCLE     1.57510                                  DARK 
+  SQUARE     1.32110                     0.000 NO     DARK 
+  SQUARE     1.57510                     0.000 NO     DARK 
+  OBLONG     1.19990     x 1.89990      90.000 NO     DARK 
+
+     solderB created with warnings
+
+
+================================================================
+     PROCESSING FILM < solderT >
+     TO FILE < C:/Users/user/Desktop/work/avrusb/allegro/gerber/solderT.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.0000
+  Suppress shape fill on neg film     NO
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.0000
+  Offset y:                           0.0000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     1.11800                                  DARK 
+  CIRCLE     1.32110                                  DARK 
+  CIRCLE     1.57510                                  DARK 
+  SQUARE     1.32110                     0.000 NO     DARK 
+  SQUARE     1.57510                     0.000 NO     DARK 
+  RECTANGLE  0.40000     x 1.72010      90.000 NO     DARK 
+  RECTANGLE  1.10010     x 1.72010      90.000 NO     DARK 
+  RECTANGLE  1.77800     x 0.45690       0.000 NO     DARK 
+  RECTANGLE  1.77800     x 0.45690      90.000 NO     DARK 
+  OBLONG     1.19990     x 1.89990      90.000 NO     DARK 
+  OBLONG     1.77800     x 0.45690       0.000 NO     DARK 
+  OBLONG     1.77800     x 0.45690      90.000 NO     DARK 
+
+     solderT created with warnings
+
+
+================================================================
+     PROCESSING FILM < SilkB >
+     TO FILE < C:/Users/user/Desktop/work/avrusb/allegro/gerber/SilkB.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.2000
+  Suppress shape fill on neg film     NO
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.0000
+  Offset y:                           0.0000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED:  NONE
+     SilkB created with warnings
+
+
+================================================================
+     PROCESSING FILM < SilkT >
+     TO FILE < C:/Users/user/Desktop/work/avrusb/allegro/gerber/SilkT.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.2000
+  Suppress shape fill on neg film     NO
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.0000
+  Offset y:                           0.0000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+    WARNING: text composed 0 width line found at (14.1200 17.0300)
+           ... using undefined line width of 0.2000
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.20000                                  DARK 
+  CIRCLE     0.20300                                  DARK 
+  CIRCLE     0.25400                                  DARK 
+
+     SilkT created with warnings
+
+
+================================================================
+     PROCESSING FILM < Deign >
+     TO FILE < C:/Users/user/Desktop/work/avrusb/allegro/gerber/Deign.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.0000
+  Suppress shape fill on neg film     NO
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.0000
+  Offset y:                           0.0000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+    WARNING: Film contains layer ROUTE KEEPOUT/ALL that should not normally be used etch (conductor) layers.
+    WARNING: Film contains layer ROUTE KEEPIN/ALL that should not normally be used etch (conductor) layers.
+    WARNING: Film contains layer PACKAGE KEEPIN/ALL that should not normally be used etch (conductor) layers.
+           
+    WARNING: more than one pin class in film record
+    WARNING: more than one via class in film record
+    WARNING: more than one etch class in film record
+    WARNING: Null REGULAR-PAD specified for padstack MICRO_USB_RECT at (11.3200 9.1300).
+    WARNING: Null REGULAR-PAD specified for padstack MICRO_USB_RECT2 at (11.3200 10.1300).
+    WARNING: Null REGULAR-PAD specified for padstack MICRO_USB_RECT2 at (11.3200 10.7800).
+    WARNING: Null REGULAR-PAD specified for padstack MICRO_USB_RECT at (11.3200 13.7300).
+    WARNING: Null REGULAR-PAD specified for padstack MICRO_USB_RECT2 at (11.3200 12.7300).
+    WARNING: Null REGULAR-PAD specified for padstack MICRO_USB_RECT2 at (11.3200 12.0800).
+    WARNING: Null REGULAR-PAD specified for padstack MICRO_USB_RECT2 at (11.3200 11.4300).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD95_1 at (32.5630 18.9870).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD96_1 at (33.3630 18.9870).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD93_1 at (31.1150 26.0350).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD94_1 at (31.1150 25.2350).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD94_1 at (31.1150 24.4350).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD94_1 at (31.1150 23.6350).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD94_1 at (31.1150 22.8350).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD94_1 at (31.1150 22.0350).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD94_1 at (31.1150 21.2340).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD94_1 at (31.1150 20.4340).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD99 at (33.3630 27.4830).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD99 at (32.5630 27.4830).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD95_1 at (34.1630 18.9870).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD95_1 at (34.9630 18.9870).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD95_1 at (35.7630 18.9870).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD95_1 at (36.5630 18.9870).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD95_1 at (37.3630 18.9870).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD95_1 at (38.1630 18.9870).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD97_1 at (39.6110 20.4340).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD97_1 at (39.6110 21.2340).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD97_1 at (39.6110 22.0350).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD98_1 at (39.6110 22.8350).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD97_1 at (39.6110 23.6350).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD97_1 at (39.6110 24.4350).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD97_1 at (39.6110 25.2350).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD97_1 at (39.6110 26.0350).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD99 at (38.1630 27.4830).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD99 at (37.3630 27.4830).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD99 at (36.5630 27.4830).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD99 at (35.7630 27.4830).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD99 at (34.9630 27.4830).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD100 at (34.1630 27.4830).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD93_1 at (78.8000 25.4000).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD94_1 at (78.8000 24.6000).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD94_1 at (78.8000 23.8000).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD94_1 at (78.8000 23.0000).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD94_1 at (78.8000 22.2000).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD94_1 at (78.8000 21.4000).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD94_1 at (78.8000 20.5990).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD94_1 at (78.8000 19.7990).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD95_1 at (80.2480 18.3520).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD96_1 at (81.0480 18.3520).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD95_1 at (81.8480 18.3520).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD95_1 at (82.6480 18.3520).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD95_1 at (83.4480 18.3520).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD95_1 at (84.2480 18.3520).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD95_1 at (85.0480 18.3520).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD95_1 at (85.8480 18.3520).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD97_1 at (87.2960 19.7990).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD97_1 at (87.2960 20.5990).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD97_1 at (87.2960 21.4000).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD98_1 at (87.2960 22.2000).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD97_1 at (87.2960 23.0000).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD97_1 at (87.2960 23.8000).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD97_1 at (87.2960 24.6000).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD97_1 at (87.2960 25.4000).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD99 at (85.8480 26.8480).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD99 at (85.0480 26.8480).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD99 at (84.2480 26.8480).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD99 at (83.4480 26.8480).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD99 at (82.6480 26.8480).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD100 at (81.8480 26.8480).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD99 at (81.0480 26.8480).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD99 at (80.2480 26.8480).
+    WARNING: rectangle or unfilled shape composed 0 width line found at (0.0000 0.0000)
+           ... ignored.
+
+    WARNING: rectangle or unfilled shape having Multiple 0 width lines; all will be treated the same as the first.
+           ... ignored.
+
+    WARNING: text having Multiple 0 width lines; all will be treated the same as the first.
+           ... ignored.
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.20000                                  DARK 
+  CIRCLE     0.20300                                  DARK 
+  CIRCLE     0.25400                                  DARK 
+  CIRCLE     0.38100                                  DARK 
+  CIRCLE     0.38200                                  DARK 
+  CIRCLE     0.61000                                  DARK 
+  CIRCLE     1.32110                                  DARK 
+  CIRCLE     1.57510                                  DARK 
+  SQUARE     1.32110                     0.000 NO     DARK 
+  SQUARE     1.57510                     0.000 NO     DARK 
+  RECTANGLE  0.40000     x 1.72010      90.000 NO     DARK 
+  RECTANGLE  1.10010     x 1.72010      90.000 NO     DARK 
+  RECTANGLE  1.77800     x 0.45690       0.000 NO     DARK 
+  RECTANGLE  1.77800     x 0.45690      90.000 NO     DARK 
+  OBLONG     1.19990     x 1.89990      90.000 NO     DARK 
+  OBLONG     1.77800     x 0.45690       0.000 NO     DARK 
+  OBLONG     1.77800     x 0.45690      90.000 NO     DARK 
+
+     Deign created with warnings
+
+
+================================================================
+     PROCESSING FILM < BOTTOM >
+     TO FILE < C:/Users/user/Desktop/work/avrusb/allegro/gerber/BOTTOM.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.0000
+  Suppress shape fill on neg film     NO
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.0000
+  Offset y:                           0.0000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.25400                                  DARK 
+  CIRCLE     0.38100                                  DARK 
+  CIRCLE     0.38200                                  DARK 
+  CIRCLE     0.61000                                  DARK 
+  CIRCLE     1.32110                                  DARK 
+  CIRCLE     1.57510                                  DARK 
+  SQUARE     1.32110                     0.000 NO     DARK 
+  SQUARE     1.57510                     0.000 NO     DARK 
+  OBLONG     1.19990     x 1.89990      90.000 NO     DARK 
+
+     BOTTOM created with warnings
+
+
+================================================================
+     PROCESSING FILM < TOP >
+     TO FILE < C:/Users/user/Desktop/work/avrusb/allegro/gerber/TOP.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.0000
+  Suppress shape fill on neg film     NO
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.0000
+  Offset y:                           0.0000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.25400                                  DARK 
+  CIRCLE     0.38100                                  DARK 
+  CIRCLE     0.38200                                  DARK 
+  CIRCLE     0.61000                                  DARK 
+  CIRCLE     1.32110                                  DARK 
+  CIRCLE     1.57510                                  DARK 
+  SQUARE     1.32110                     0.000 NO     DARK 
+  SQUARE     1.57510                     0.000 NO     DARK 
+  RECTANGLE  0.40000     x 1.72010      90.000 NO     DARK 
+  RECTANGLE  1.10010     x 1.72010      90.000 NO     DARK 
+  RECTANGLE  1.77800     x 0.45690       0.000 NO     DARK 
+  RECTANGLE  1.77800     x 0.45690      90.000 NO     DARK 
+  OBLONG     1.19990     x 1.89990      90.000 NO     DARK 
+  OBLONG     1.77800     x 0.45690       0.000 NO     DARK 
+  OBLONG     1.77800     x 0.45690      90.000 NO     DARK 
+
+     TOP created with warnings
+
+
+================================================================
+     PROCESSING FILM < SilkTop >
+     TO FILE < C:/Users/user/Desktop/work/avrusb/allegro/gerber/SilkTop.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.0000
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.0000
+  Offset y:                           0.0000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.20000                                  DARK 
+  CIRCLE     0.20300                                  DARK 
+  CIRCLE     0.25400                                  DARK 
+
+     SilkTop created with warnings
+
+
+================================================================
+     PROCESSING FILM < SilkBottom >
+     TO FILE < C:/Users/user/Desktop/work/avrusb/allegro/gerber/SilkBottom.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.0000
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.0000
+  Offset y:                           0.0000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.20000                                  DARK 
+
+     SilkBottom created with warnings
+
+
+================================================================
+     PROCESSING FILM < DrillDraw >
+     TO FILE < C:/Users/user/Desktop/work/avrusb/allegro/gerber/DrillDraw.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.0000
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.0000
+  Offset y:                           0.0000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+    WARNING: 0 width line found at (0.2000 56.2552)
+           ... ignored.
+
+    WARNING: Multiple 0 width lines; all will be treated the same as the first.
+           ... ignored.
+
+
+
+  APERTURES USED:  NONE
+     DrillDraw created with warnings
+
+
+------------------------------------------------------
+ SUMMARY:
+        metalB created with warnings
+        metalT created with warnings
+        solderB created with warnings
+        solderT created with warnings
+        SilkB created with warnings
+        SilkT created with warnings
+        Deign created with warnings
+        BOTTOM created with warnings
+        TOP created with warnings
+        SilkTop created with warnings
+        SilkBottom created with warnings
+        DrillDraw created with warnings
+
+ ARTWORK had warnings

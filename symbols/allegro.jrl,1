@@ -1,0 +1,40 @@
+\t (00:01:23) allegro 16.6 S034 (v16-6-112CQ) Windows 32
+\t (00:01:23)     Journal start - Thu Jul 18 11:20:48 2019
+\t (00:01:23)         Host=USER-PC User=user Pid=8944 CPUs=4
+\t (00:01:23) CmdLine= allegro.exe -p .
+\t (00:01:23) 
+\d (00:01:23) Design opened: C:/Users/user/Desktop/work/samples/avrusb500_r02/avrusb500_r02/Allegro/allegro/avrusb500.brd
+\i (00:01:23) generaledit 
+\i (00:02:11) zoom out 1 
+\i (00:02:11) setwindow pcb
+\i (00:02:11) zoom out 62.129 15.756
+\i (00:02:11) trapsize 624
+\i (00:02:44) dlib 
+\i (00:02:58) setwindow form.dlib
+\i (00:02:58) FORM dlib nodepend YES 
+\i (00:03:59) FORM dlib destination ./symbols 
+\i (00:04:01) fillin yes 
+\i (00:04:14) FORM dlib cancel  
+\i (00:04:14) setwindow pcb
+\i (00:04:14) generaledit 
+\i (00:05:03) dlib 
+\i (00:05:05) setwindow form.dlib
+\i (00:05:05) FORM dlib nodepend YES 
+\i (00:05:16) FORM dlib destination ./ 
+\i (00:05:31) FORM dlib execute  
+\t (00:05:31) Starting Cadence export libraries...
+\i (00:05:42) FORM dlib cancel  
+\i (00:05:42) setwindow pcb
+\i (00:05:42) generaledit 
+\i (00:44:57) xhilite 
+\i (00:44:57) xname_flush 
+\i (00:44:57) done 
+\i (00:44:57) generaledit 
+\i (00:45:06) setwindow form.vf_vis
+\i (00:45:06) FORM vf_vis all_all_visible YES 
+\i (00:45:39) setwindow pcb
+\i (00:45:39) new 
+\e (00:45:39) Do you want to save the changes you made to avrusb500.brd?
+\i (00:46:05) fillin no 
+\i (00:47:19) newdrawfillin "micro_usb.dra" "Package Symbol"
+\t (00:47:19)     Journal end - Thu Jul 18 12:06:44 2019

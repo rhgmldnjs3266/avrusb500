@@ -1,0 +1,1117 @@
+\t (00:01:10) allegro 16.6 S034 (v16-6-112CQ) Windows 32
+\t (00:01:10)     Journal start - Fri Jul 19 09:10:07 2019
+\t (00:01:10)         Host=USER-PC User=user Pid=5688 CPUs=4
+\t (00:01:10) CmdLine= allegro.exe -p .
+\t (00:01:10) 
+\d (00:01:10) Design opened: C:/Users/user/Desktop/work/avrusb/allegro/AVRUSB500.brd
+\i (00:01:10) generaledit 
+\i (00:01:14) roam x 96 
+\i (00:01:14) roam x 96
+\i (00:01:15) roam x -96 
+\i (00:01:15) roam x -96
+\i (00:01:15) roam x -96 
+\i (00:01:15) roam x -96
+\i (00:01:16) roam x -96 
+\i (00:01:16) roam x -96
+\i (00:01:16) roam x -96 
+\i (00:01:16) roam x -96
+\i (00:01:16) roam y 96 
+\i (00:01:16) roam y 96
+\i (00:01:16) roam y 96 
+\i (00:01:16) roam y 96
+\i (00:01:19) zoom in 1 
+\i (00:01:19) setwindow pcb
+\i (00:01:19) zoom in 60.0933 25.3545
+\i (00:01:19) trapsize 3265
+\i (00:01:20) zoom out 1 
+\i (00:01:20) setwindow pcb
+\i (00:01:20) zoom out 60.0934 25.3545
+\i (00:01:20) trapsize 6530
+\i (00:01:22) setwindow form.vf_vis
+\i (00:01:22) FORM vf_vis 2 all_colorvisible YES 
+\i (00:01:24) FORM vf_vis 3 all_colorvisible YES 
+\i (00:01:24) FORM vf_vis all_all_visible YES 
+\i (00:01:31) setwindow pcb
+\i (00:01:31) zoom in 1 
+\i (00:01:31) setwindow pcb
+\i (00:01:31) zoom in 66.7537 33.3209
+\i (00:01:31) trapsize 3265
+\i (00:01:32) zoom out 1 
+\i (00:01:32) setwindow pcb
+\i (00:01:32) zoom out 66.7538 33.1903
+\i (00:01:32) trapsize 6530
+\i (00:01:34) setwindow form.vf_vis
+\i (00:01:34) FORM vf_vis 2 all_colorvisible NO 
+\i (00:01:38) setwindow form.mini
+\i (00:01:38) FORM mini subcolor 1 
+\i (00:01:41) setwindow form.vf_vis
+\i (00:01:41) FORM vf_vis 2 all_colorvisible YES 
+\i (00:01:42) FORM vf_vis all_all_visible YES 
+\i (00:01:44) FORM vf_vis 2 all_colorvisible NO 
+\i (00:01:48) FORM vf_vis 1 all_colorvisible NO 
+\i (00:01:49) FORM vf_vis 1 all_colorvisible YES 
+\i (00:01:52) FORM vf_vis 2 all_colorvisible YES 
+\i (00:01:55) FORM vf_vis 1 all_colorvisible NO 
+\i (00:01:57) FORM vf_vis 1 all_colorvisible YES 
+\i (00:01:59) FORM vf_vis 2 all_colorvisible NO 
+\i (00:02:01) FORM vf_vis 2 all_colorvisible YES 
+\i (00:02:03) FORM vf_vis 2 all_colorvisible NO 
+\i (00:02:05) FORM vf_vis 1 all_colorvisible NO 
+\i (00:02:06) FORM vf_vis 2 all_colorvisible YES 
+\i (00:02:07) FORM vf_vis 1 all_colorvisible YES 
+\i (00:02:11) setwindow pcb
+\i (00:02:11) zoom in 1 
+\i (00:02:11) setwindow pcb
+\i (00:02:11) zoom in 17.3881 12.1642
+\i (00:02:11) trapsize 3265
+\i (00:02:12) zoom out 1 
+\i (00:02:12) setwindow pcb
+\i (00:02:12) zoom out 17.7146 12.0337
+\i (00:02:12) trapsize 6530
+\i (00:02:13) zoom in 1 
+\i (00:02:13) setwindow pcb
+\i (00:02:13) zoom in 17.8453 12.0336
+\i (00:02:13) trapsize 3265
+\i (00:02:14) zoom out 1 
+\i (00:02:14) setwindow pcb
+\i (00:02:14) zoom out 18.1065 11.8378
+\i (00:02:14) trapsize 6530
+\i (00:02:36) assign color 
+\i (00:02:57) assign color 
+\i (00:03:05) setwindow form.mini
+\i (00:03:05) FORM mini color26 1 
+\i (00:03:07) FORM mini color1 1 
+\i (00:03:13) setwindow pcb
+\i (00:03:13) assign color 
+\i (00:03:34) zoom out 1 
+\i (00:03:34) setwindow pcb
+\i (00:03:34) zoom out 59.5058 25.8116
+\i (00:03:34) trapsize 13060
+\i (00:03:34) zoom out 1 
+\i (00:03:34) setwindow pcb
+\i (00:03:34) zoom out 149.8134 54.7388
+\i (00:03:34) trapsize 13060
+\i (00:03:35) zoom in 1 
+\i (00:03:35) setwindow pcb
+\i (00:03:35) zoom in 149.8134 54.7388
+\i (00:03:35) trapsize 6530
+\i (00:03:36) roam x -96 
+\i (00:03:36) roam x -96
+\i (00:03:36) roam x -96 
+\i (00:03:36) roam x -96
+\i (00:03:36) roam x -96 
+\i (00:03:36) roam x -96
+\i (00:03:36) roam x -96 
+\i (00:03:36) roam x -96
+\i (00:03:36) roam x -96 
+\i (00:03:36) roam x -96
+\i (00:03:37) roam y 96 
+\i (00:03:37) roam y 96
+\i (00:03:37) roam y 96 
+\i (00:03:37) roam y 96
+\i (00:03:37) roam x -96 
+\i (00:03:37) roam x -96
+\i (00:03:38) zoom in 1 
+\i (00:03:38) setwindow pcb
+\i (00:03:38) zoom in 100.9701 -5.5970
+\i (00:03:38) trapsize 3265
+\i (00:03:38) roam x -96 
+\i (00:03:38) roam x -96
+\i (00:03:39) roam x -96 
+\i (00:03:39) roam x -96
+\i (00:03:39) zoom out 1 
+\i (00:03:39) setwindow pcb
+\i (00:03:39) zoom out 88.7593 -5.4011
+\i (00:03:39) trapsize 6530
+\i (00:03:39) roam x -96 
+\i (00:03:39) roam x -64
+\i (00:03:49) setwindow form.vf_vis
+\i (00:03:49) FORM vf_vis colorview_list Film: BOTTOM 
+\i (00:03:52) FORM vf_vis colorview_list Film: TOP 
+\i (00:03:56) FORM vf_vis colorview_list Film: BOTTOM 
+\i (00:03:59) FORM vf_vis colorview_list Film: TOP 
+\i (00:04:05) FORM vf_vis all_all_visible YES 
+\i (00:04:06) setwindow pcb
+\i (00:04:06) zoom in 1 
+\i (00:04:06) setwindow pcb
+\i (00:04:06) zoom in 62.9664 5.0467
+\i (00:04:06) trapsize 3265
+\i (00:04:08) zoom out 1 
+\i (00:04:08) setwindow pcb
+\i (00:04:08) zoom out 65.3825 4.0019
+\i (00:04:08) trapsize 6530
+\i (00:04:08) roam x -96 
+\i (00:04:09) zoom in 1 
+\i (00:04:09) setwindow pcb
+\i (00:04:09) zoom in 67.2761 4.0019
+\i (00:04:09) trapsize 3265
+\i (00:04:10) zoom out 1 
+\i (00:04:10) setwindow pcb
+\i (00:04:10) zoom out 67.2762 4.0019
+\i (00:04:10) trapsize 6530
+\i (00:04:10) roam x -96 
+\i (00:04:12) roam x -96 
+\i (00:04:12) zoom in 1 
+\i (00:04:12) setwindow pcb
+\i (00:04:12) zoom in 68.4515 4.2631
+\i (00:04:12) trapsize 3265
+\i (00:04:13) roam x -96 
+\i (00:04:13) roam x -96
+\i (00:04:13) roam x -96 
+\i (00:04:13) roam x -96
+\i (00:04:13) zoom out 1 
+\i (00:04:13) setwindow pcb
+\i (00:04:13) zoom out 55.9141 4.2631
+\i (00:04:13) trapsize 6530
+\i (00:04:14) zoom in 1 
+\i (00:04:14) setwindow pcb
+\i (00:04:14) zoom in 68.5821 4.3937
+\i (00:04:14) trapsize 3265
+\i (00:04:15) zoom out 1 
+\i (00:04:15) setwindow pcb
+\i (00:04:15) zoom out 68.5821 4.3937
+\i (00:04:15) trapsize 6530
+\i (00:04:38) setwindow form.vf_vis
+\i (00:04:38) FORM vf_vis all_etch_visible NO 
+\i (00:04:39) FORM vf_vis all_etch_visible YES 
+\i (00:04:40) FORM vf_vis all_etch_visible NO 
+\i (00:04:42) FORM vf_vis all_etch_visible YES 
+\i (00:04:50) FORM vf_vis 1 all_colorvisible NO 
+\i (00:04:51) FORM vf_vis 2 all_colorvisible NO 
+\i (00:04:52) FORM vf_vis 1 all_colorvisible YES 
+\i (00:04:52) FORM vf_vis 2 all_colorvisible YES 
+\i (00:05:01) setwindow pcb
+\i (00:05:01) color192 
+\i (00:05:01) setwindow cvf.dialog
+\i (00:05:01) cvf layer_mode
+\i (00:05:03) cvf cancel
+\i (00:05:12) setwindow pcb
+\i (00:05:12) color192 
+\i (00:05:12) setwindow cvf.dialog
+\i (00:05:12) cvf layer_mode
+\i (00:05:17) cvf layer_tree_item 'Board Geometry'
+\i (00:05:21) cvf layers_visible board_geometry/all_row TRUE
+\i (00:05:25) cvf layer_tree_item 'Package Geometry'
+\i (00:05:28) cvf layers_visible package_geometry/all_row TRUE
+\i (00:05:31) cvf okay
+\i (00:05:35) setwindow form.vf_vis
+\i (00:05:35) FORM vf_vis all_all_visible NO 
+\i (00:05:36) FORM vf_vis all_all_visible YES 
+\i (00:05:38) setwindow pcb
+\i (00:05:38) zoom in 1 
+\i (00:05:38) setwindow pcb
+\i (00:05:38) zoom in 121.4740 -5.1399
+\i (00:05:38) trapsize 3265
+\i (00:05:39) zoom out 1 
+\i (00:05:39) setwindow pcb
+\i (00:05:39) zoom out 121.4740 -5.0746
+\i (00:05:39) trapsize 6530
+\i (00:05:41) setwindow form.vf_vis
+\i (00:05:41) FORM vf_vis all_drc_visible NO 
+\i (00:05:41) FORM vf_vis all_drc_visible YES 
+\i (00:05:54) setwindow pcb
+\i (00:05:54) color192 
+\i (00:05:55) setwindow cvf.dialog
+\i (00:05:55) cvf layer_mode
+\i (00:06:05) cvf layers_visible stack-up pin/all_row TRUE
+\i (00:06:05) cvf layers_visible stack-up via/all_row TRUE
+\i (00:06:10) cvf layers_visible stack-up drc/all_row TRUE
+\i (00:06:17) cvf layers_visible stack-up anti_etch/top TRUE
+\i (00:06:17) cvf layers_visible stack-up anti_etch/bottom TRUE
+\i (00:06:19) cvf layers_visible stack-up anti_etch/all_row TRUE
+\i (00:06:20) cvf layers_visible stack-up cavity/all_row TRUE
+\i (00:06:22) cvf okay
+\i (00:06:27) setwindow pcb
+\i (00:06:27) color192 
+\i (00:06:27) setwindow cvf.dialog
+\i (00:06:27) cvf layer_mode
+\i (00:06:29) cvf layer_tree_item 'Conductor' 'Stack-Up'
+\i (00:06:31) cvf layer_tree_item 'Non-Conductor' 'Stack-Up'
+\i (00:06:32) cvf layer_tree_item 'Areas'
+\i (00:06:39) cvf layer_tree_item 'Stack-Up'
+\i (00:06:40) cvf layer_tree_item 'Conductor' 'Stack-Up'
+\i (00:06:44) cvf layer_tree_item 'Non-Conductor' 'Stack-Up'
+\i (00:06:47) cvf layer_tree_item 'Areas'
+\i (00:07:02) cvf layer_tree_item 'Board Geometry'
+\i (00:07:05) cvf layers_visible board_geometry/outline FALSE
+\i (00:07:06) cvf layers_visible board_geometry/outline TRUE
+\i (00:07:12) cvf layer_tree_item 'Stack-Up'
+\i (00:07:13) cvf layer_tree_item 'Areas'
+\i (00:07:24) cvf layers_visible areas constraints_region/all_row TRUE
+\i (00:07:30) cvf layers_visible areas constraints_region/all_row FALSE
+\i (00:07:33) cvf layers_visible areas constraints_region/top TRUE
+\i (00:07:34) cvf layers_visible areas constraints_region/bottom TRUE
+\i (00:07:34) cvf layers_visible areas constraints_region/inner_plane_layers TRUE
+\i (00:07:34) cvf layers_visible areas constraints_region/inner_signal_layers TRUE
+\i (00:07:35) cvf layers_visible areas constraints_region/outer_layers TRUE
+\i (00:07:35) cvf layers_visible areas constraints_region/through_all TRUE
+\i (00:07:40) cvf layers_visible areas route_keepout/top TRUE
+\i (00:07:40) cvf layers_visible areas route_keepout/bottom TRUE
+\i (00:07:41) cvf layers_visible areas route_keepout/through_all TRUE
+\i (00:07:41) cvf layers_visible areas via_keepout/through_all TRUE
+\i (00:07:42) cvf layers_visible areas via_keepout/bottom TRUE
+\i (00:07:42) cvf layers_visible areas via_keepout/top TRUE
+\i (00:07:43) cvf layers_visible areas package_keepout/top TRUE
+\i (00:07:44) cvf layers_visible areas package_keepout/bottom TRUE
+\i (00:07:44) cvf layers_visible areas package_keepout/through_all TRUE
+\i (00:07:45) cvf layers_visible areas package_keepin/through_all TRUE
+\i (00:07:46) cvf layers_visible areas route_keepin/through_all TRUE
+\i (00:07:49) cvf okay
+\i (00:07:54) setwindow pcb
+\i (00:07:54) zoom in 1 
+\i (00:07:54) setwindow pcb
+\i (00:07:54) zoom in 45.8584 45.2053
+\i (00:07:54) trapsize 3265
+\i (00:07:55) zoom out 1 
+\i (00:07:55) setwindow pcb
+\i (00:07:55) zoom out 49.3845 47.8826
+\i (00:07:55) trapsize 6530
+\i (00:07:57) drag_start grid -18.3955 58.8527
+\i (00:07:58) drag_stop 139.3656 -20.9421
+\t (00:07:58) 34 Net(s) assigned color.
+\t (00:07:58) 36 Component(s) assigned color.
+\t (00:07:58) 6 Drc Error(s) assigned color.
+\i (00:08:02) oops 
+\i (00:08:14) flipdesign 
+\i (00:08:15) flipdesign 
+\i (00:08:54) pick grid 86.2127 62.5094
+\t (00:08:54) last pick:  86.3600 62.2300
+\i (00:09:05) add connect 
+\t (00:09:06) Pick first element.
+\i (00:09:11) prepopup 115.3358 66.6885
+\i (00:09:12) done 
+\i (00:09:12) generaledit 
+\i (00:09:14) setwindow form.mini
+\i (00:09:14) FORM mini subclass BOTTOM 
+\i (00:09:16) FORM mini subclass TOP 
+\i (00:09:20) setwindow pcb
+\i (00:09:20) pick grid 55.0000 70.4758
+\t (00:09:20) last pick:  55.2450 70.4850
+\i (00:09:21) zoom out 1 
+\i (00:09:21) setwindow pcb
+\i (00:09:21) zoom out 60.0933 64.7295
+\i (00:09:21) trapsize 13060
+\i (00:09:22) zoom in 1 
+\i (00:09:23) setwindow pcb
+\i (00:09:23) zoom in 170.4478 128.6567
+\i (00:09:23) trapsize 6530
+\i (00:09:24) roam x -96 
+\i (00:09:24) roam x -96
+\i (00:09:24) roam x -96 
+\i (00:09:24) roam x -96
+\i (00:09:24) roam x -96 
+\i (00:09:24) roam x -96
+\i (00:09:24) roam x -96 
+\i (00:09:24) roam x -96
+\i (00:09:24) roam x -96 
+\i (00:09:24) roam x -96
+\i (00:09:25) roam x -96 
+\i (00:09:25) roam x -96
+\i (00:09:25) roam x -96 
+\i (00:09:25) roam x -96
+\i (00:09:25) roam x -96 
+\i (00:09:25) roam x -64
+\i (00:09:25) roam y 96 
+\i (00:09:25) roam y 96
+\i (00:09:25) roam y 96 
+\i (00:09:25) roam y 96
+\i (00:09:26) roam y 96 
+\i (00:09:26) roam y 96
+\i (00:09:26) roam y 96 
+\i (00:09:26) roam y 96
+\i (00:09:26) roam y 96 
+\i (00:09:26) roam y 96
+\i (00:09:26) roam x -96 
+\i (00:09:27) roam x 96 
+\i (00:09:27) roam x 96
+\i (00:09:27) roam x -96 
+\i (00:09:27) roam x -96
+\i (00:09:57) pick grid 130.0933 59.5709
+\t (00:09:57) last pick:  130.1750 59.6900
+\i (00:09:58) zoom in 1 
+\i (00:09:58) setwindow pcb
+\i (00:09:58) zoom in 130.0933 59.5709
+\i (00:09:58) trapsize 3265
+\i (00:09:59) roam y 96 
+\i (00:09:59) roam y 96
+\i (00:09:59) roam x -96 
+\i (00:09:59) roam x -96
+\i (00:09:59) roam x -96 
+\i (00:09:59) roam x -96
+\i (00:10:00) roam x -96 
+\i (00:10:00) roam x -96
+\i (00:10:00) roam x -96 
+\i (00:10:00) roam x -96
+\i (00:10:00) roam y 96 
+\i (00:10:00) roam y 96
+\i (00:10:00) roam y 96 
+\i (00:10:00) roam y 96
+\i (00:10:01) zoom out 1 
+\i (00:10:01) setwindow pcb
+\i (00:10:01) zoom out 65.4478 25.4851
+\i (00:10:01) trapsize 6530
+\i (00:10:01) roam x -96 
+\i (00:10:01) roam x -96
+\i (00:10:05) setwindow form.vf_vis
+\i (00:10:05) FORM vf_vis colorview_list Film: BOTTOM 
+\i (00:10:09) setwindow pcb
+\i (00:10:09) shape select 
+\i (00:10:10) pick grid 67.6679 38.9366
+\t (00:10:10) last pick:  67.9450 38.7350
+\i (00:10:14) assign color 
+\i (00:10:17) setwindow form.mini
+\i (00:10:17) FORM mini color17 1 
+\i (00:10:22) setwindow pcb
+\i (00:10:22) pick grid 70.2798 39.4590
+\t (00:10:22) last pick:  70.4850 39.3700
+\t (00:10:22) Net "Gnd" assigned color.
+\i (00:10:31) setwindow form.vf_vis
+\i (00:10:31) FORM vf_vis colorview_list Film: TOP 
+\i (00:10:37) setwindow pcb
+\i (00:10:37) shape select 
+\i (00:10:38) pick grid 66.4925 40.2426
+\t (00:10:38) last pick:  66.6750 40.0050
+\i (00:10:40) assign color 
+\i (00:10:52) setwindow form.mini
+\i (00:10:52) FORM mini color_choose  
+\i (00:10:54) cvf_chooser 33 
+\i (00:10:56) setwindow pcb
+\i (00:10:56) pick grid 69.6268 38.1530
+\t (00:10:56) last pick:  69.8500 38.1000
+\t (00:10:56) Net "Gnd" assigned color.
+\i (00:11:00) setwindow form.vf_vis
+\i (00:11:00) FORM vf_vis all_all_visible YES 
+\i (00:11:12) FORM vf_vis colorview_list Film: BOTTOM 
+\i (00:11:20) setwindow pcb
+\i (00:11:20) undo 
+\i (00:11:20) trapsize 6530
+\i (00:11:20) generaledit 
+\i (00:11:25) setwindow form.vf_vis
+\i (00:11:25) FORM vf_vis colorview_list Film: TOP 
+\i (00:11:35) setwindow pcb
+\i (00:11:35) shape select 
+\i (00:11:38) zoom in 1 
+\i (00:11:38) setwindow pcb
+\i (00:11:38) zoom in 77.4626 6.8097
+\i (00:11:38) trapsize 3265
+\i (00:11:38) zoom in 1 
+\i (00:11:38) setwindow pcb
+\i (00:11:38) zoom in 77.2668 7.1362
+\i (00:11:38) trapsize 1632
+\i (00:11:39) pick grid 68.6148 9.1932
+\t (00:11:39) last pick:  68.5800 8.8900
+\i (00:11:47) assign color 
+\i (00:11:55) pick grid 67.0803 3.8713
+\t (00:11:55) last pick:  67.3100 3.8100
+\t (00:11:55) Net "Gnd" assigned color.
+\i (00:11:56) zoom out 1 
+\i (00:11:56) setwindow pcb
+\i (00:11:56) zoom out 71.6512 3.5122
+\i (00:11:56) trapsize 3265
+\i (00:11:56) zoom out 1 
+\i (00:11:56) setwindow pcb
+\i (00:11:56) zoom out 71.6512 3.5122
+\i (00:11:56) trapsize 6530
+\i (00:11:58) roam x -96 
+\i (00:11:58) roam x -96
+\i (00:11:58) roam x -96 
+\i (00:11:58) roam x -48
+\i (00:11:59) zoom in 1 
+\i (00:11:59) setwindow pcb
+\i (00:11:59) zoom in 57.6121 8.7360
+\i (00:11:59) trapsize 3265
+\i (00:12:00) roam y 96 
+\i (00:12:00) roam y 96
+\i (00:12:00) zoom out 1 
+\i (00:12:00) setwindow pcb
+\i (00:12:00) zoom out 58.9834 1.7817
+\i (00:12:00) trapsize 6530
+\i (00:12:04) done 
+\i (00:12:04) generaledit 
+\i (00:12:08) setwindow form.vf_vis
+\i (00:12:08) FORM vf_vis colorview_list Film: BOTTOM 
+\i (00:12:15) setwindow pcb
+\i (00:12:15) shape select 
+\i (00:12:16) pick grid 49.7762 28.2930
+\t (00:12:16) last pick:  49.5300 28.5750
+\i (00:12:21) assign color 
+\i (00:12:24) setwindow form.mini
+\i (00:12:24) FORM mini color17 1 
+\i (00:12:27) setwindow pcb
+\i (00:12:27) pick grid 82.4255 30.9049
+\t (00:12:27) last pick:  82.5500 31.1150
+\t (00:12:27) Net "Gnd" assigned color.
+\i (00:12:29) done 
+\i (00:12:29) generaledit 
+\i (00:12:32) setwindow form.vf_vis
+\i (00:12:32) FORM vf_vis all_all_visible YES 
+\i (00:12:39) FORM vf_vis colorview_list Film: Deign 
+\i (00:12:42) FORM vf_vis colorview_list Film: TOP 
+\i (00:12:46) FORM vf_vis colorview_list Film: Deign 
+\i (00:12:50) setwindow pcb
+\i (00:12:50) flipdesign 
+\i (00:12:51) flipdesign 
+\i (00:12:52) zoom in 1 
+\i (00:12:52) setwindow pcb
+\i (00:12:52) zoom in 85.1680 26.8564
+\i (00:12:52) trapsize 3265
+\i (00:12:53) zoom out 1 
+\i (00:12:53) setwindow pcb
+\i (00:12:53) zoom out 85.1680 26.8565
+\i (00:12:53) trapsize 6530
+\i (00:14:01) setwindow form.vf_vis
+\i (00:14:01) FORM vf_vis 1 all_colorvisible YES 
+\i (00:14:01) FORM vf_vis 2 all_colorvisible YES 
+\i (00:14:02) FORM vf_vis 3 all_colorvisible YES 
+\i (00:14:03) FORM vf_vis all_all_visible YES 
+\i (00:14:06) setwindow pcb
+\i (00:14:06) zoom in 1 
+\i (00:14:06) setwindow pcb
+\i (00:14:06) zoom in 12.4254 4.2631
+\i (00:14:06) trapsize 3265
+\i (00:14:09) setwindow form.vf_vis
+\i (00:14:09) FORM vf_vis colorview_list Film: TOP 
+\i (00:14:18) FORM vf_vis colorview_list Film: BOTTOM 
+\i (00:14:21) FORM vf_vis colorview_list Film: TOP 
+\i (00:14:25) setwindow pcb
+\i (00:14:25) zoom out 1 
+\i (00:14:25) setwindow pcb
+\i (00:14:25) zoom out 63.0318 3.1530
+\i (00:14:25) trapsize 6530
+\i (00:14:25) roam x -96 
+\i (00:14:26) zoom in 1 
+\i (00:14:26) setwindow pcb
+\i (00:14:26) zoom in 113.6382 3.1531
+\i (00:14:26) trapsize 3265
+\i (00:14:26) roam y 96 
+\i (00:14:26) roam y 96
+\i (00:14:27) zoom out 1 
+\i (00:14:27) setwindow pcb
+\i (00:14:27) zoom out 113.6382 -3.1157
+\i (00:14:27) trapsize 6530
+\i (00:14:27) roam x -96 
+\i (00:14:28) zoom in 1 
+\i (00:14:28) setwindow pcb
+\i (00:14:28) zoom in 109.4591 -2.4626
+\i (00:14:28) trapsize 3265
+\i (00:14:28) zoom out 1 
+\i (00:14:28) setwindow pcb
+\i (00:14:28) zoom out 109.4591 -2.4626
+\i (00:14:28) trapsize 6530
+\i (00:14:33) setwindow form.vf_vis
+\i (00:14:33) FORM vf_vis all_all_visible YES 
+\i (00:14:35) FORM vf_vis all_all_visible NO 
+\i (00:14:36) FORM vf_vis all_all_visible YES 
+\i (00:14:52) setwindow pcb
+\i (00:14:52) xhilite 
+\i (00:14:52) xrefdes Ic1 
+\i (00:14:52) xrefdes C7 
+\i (00:14:52) xrefdes C8 
+\i (00:14:52) xNet Rxd 
+\i (00:14:52) xNet Txd 
+\i (00:14:52) xNet Gnd 
+\i (00:14:52) xrefdes Y1 
+\i (00:14:52) xNet N15182 
+\i (00:14:52) xNet Vcc 
+\i (00:14:52) xNet N15289 
+\i (00:14:52) xNet F_Sck 
+\i (00:14:52) xNet F_Miso 
+\i (00:14:52) xNet F_Mosi 
+\i (00:14:52) xrefdes J4 
+\i (00:14:52) xrefdes R9 
+\i (00:14:52) xNet Reset 
+\i (00:14:52) xrefdes R10 
+\i (00:14:52) xNet N19734 
+\i (00:14:52) xrefdes D1 
+\i (00:14:52) xNet N20572 
+\i (00:14:52) xrefdes R11 
+\i (00:14:52) xrefdes R12 
+\i (00:14:52) xrefdes R13 
+\i (00:14:52) xrefdes R15 
+\i (00:14:52) xNet N22544 
+\i (00:14:52) xrefdes J3 
+\i (00:14:52) xNet Miso 
+\i (00:14:52) xNet Sck 
+\i (00:14:52) xNet Mosi 
+\i (00:14:52) xname_flush 
+\t (00:14:52) 16 Net(s) highlighted.
+\t (00:14:52) 13 Component(s) highlighted.
+\i (00:14:52) done 
+\i (00:14:52) generaledit 
+\i (00:14:53) xdehilite 
+\i (00:14:53) xrefdes Ic1 
+\i (00:14:53) xrefdes C7 
+\i (00:14:53) xrefdes C8 
+\i (00:14:53) xNet Rxd 
+\i (00:14:53) xNet Txd 
+\i (00:14:53) xNet Gnd 
+\i (00:14:53) xrefdes Y1 
+\i (00:14:53) xNet N15182 
+\i (00:14:53) xNet Vcc 
+\i (00:14:53) xNet N15289 
+\i (00:14:53) xNet F_Sck 
+\i (00:14:53) xNet F_Miso 
+\i (00:14:53) xNet F_Mosi 
+\i (00:14:53) xrefdes J4 
+\i (00:14:53) xrefdes R9 
+\i (00:14:53) xNet Reset 
+\i (00:14:53) xrefdes R10 
+\i (00:14:53) xNet N19734 
+\i (00:14:53) xrefdes D1 
+\i (00:14:53) xNet N20572 
+\i (00:14:53) xrefdes R11 
+\i (00:14:53) xrefdes R12 
+\i (00:14:53) xrefdes R13 
+\i (00:14:53) xrefdes R15 
+\i (00:14:53) xNet N22544 
+\i (00:14:53) xrefdes J3 
+\i (00:14:53) xNet Miso 
+\i (00:14:53) xNet Sck 
+\i (00:14:53) xNet Mosi 
+\i (00:14:53) xname_flush 
+\t (00:14:53) 16 Net(s) dehighlighted.
+\t (00:14:53) 13 Component(s) dehighlighted.
+\i (00:14:53) done 
+\i (00:14:53) generaledit 
+\i (00:14:54) xhilite 
+\i (00:14:54) xrefdes Ic1 
+\i (00:14:54) xNet Gnd 
+\i (00:14:54) xNet Vcc 
+\i (00:14:54) xNet F_Sck 
+\i (00:14:54) xNet F_Miso 
+\i (00:14:54) xNet F_Mosi 
+\i (00:14:54) xrefdes J4 
+\i (00:14:54) xrefdes R10 
+\i (00:14:54) xNet N19734 
+\i (00:14:54) xrefdes D1 
+\i (00:14:54) xNet N20572 
+\i (00:14:54) xNet Reset 
+\i (00:14:54) xrefdes R11 
+\i (00:14:54) xrefdes R12 
+\i (00:14:54) xrefdes R13 
+\i (00:14:54) xrefdes R15 
+\i (00:14:54) xNet N22544 
+\i (00:14:54) xNet Miso 
+\i (00:14:54) xNet Sck 
+\i (00:14:54) xNet Mosi 
+\i (00:14:54) xname_flush 
+\i (00:14:54) trapsize 3595
+\t (00:14:54) 12 Net(s) highlighted.
+\t (00:14:54) 8 Component(s) highlighted.
+\i (00:14:54) done 
+\i (00:14:54) generaledit 
+\i (00:14:55) xdehilite 
+\i (00:14:55) xrefdes Ic1 
+\i (00:14:55) xNet Gnd 
+\i (00:14:55) xNet Vcc 
+\i (00:14:55) xNet F_Sck 
+\i (00:14:55) xNet F_Miso 
+\i (00:14:55) xNet F_Mosi 
+\i (00:14:55) xrefdes J4 
+\i (00:14:55) xrefdes R10 
+\i (00:14:55) xNet N19734 
+\i (00:14:55) xrefdes D1 
+\i (00:14:55) xNet N20572 
+\i (00:14:55) xNet Reset 
+\i (00:14:55) xrefdes R11 
+\i (00:14:55) xrefdes R12 
+\i (00:14:55) xrefdes R13 
+\i (00:14:55) xrefdes R15 
+\i (00:14:55) xNet N22544 
+\i (00:14:55) xNet Miso 
+\i (00:14:55) xNet Sck 
+\i (00:14:55) xNet Mosi 
+\i (00:14:55) xname_flush 
+\t (00:14:55) 12 Net(s) dehighlighted.
+\t (00:14:55) 8 Component(s) dehighlighted.
+\i (00:14:55) done 
+\i (00:14:55) generaledit 
+\i (00:14:56) xhilite 
+\i (00:14:56) xrefdes Ic1 
+\i (00:14:56) xrefdes C7 
+\i (00:14:56) xrefdes C8 
+\i (00:14:56) xNet Rxd 
+\i (00:14:56) xNet Txd 
+\i (00:14:56) xrefdes Y1 
+\i (00:14:56) xNet N15182 
+\i (00:14:56) xNet N15289 
+\i (00:14:56) xNet Gnd 
+\i (00:14:56) xNet F_Miso 
+\i (00:14:56) xNet F_Sck 
+\i (00:14:56) xNet F_Mosi 
+\i (00:14:56) xrefdes R9 
+\i (00:14:56) xNet Reset 
+\i (00:14:56) xNet Vcc 
+\i (00:14:56) xNet N19734 
+\i (00:14:56) xrefdes D1 
+\i (00:14:56) xNet N22544 
+\i (00:14:56) xname_flush 
+\i (00:14:56) trapsize 3595
+\t (00:14:56) 12 Net(s) highlighted.
+\t (00:14:56) 6 Component(s) highlighted.
+\i (00:14:56) done 
+\i (00:14:56) generaledit 
+\i (00:14:58) xhilite 
+\i (00:14:58) xrefdes Ic1 
+\i (00:14:58) xrefdes C7 
+\i (00:14:58) xrefdes C8 
+\i (00:14:58) xrefdes Y1 
+\i (00:14:58) xrefdes J4 
+\i (00:14:58) xrefdes R9 
+\i (00:14:58) xrefdes R10 
+\i (00:14:58) xrefdes D1 
+\i (00:14:58) xNet N20572 
+\i (00:14:58) xrefdes R11 
+\i (00:14:58) xrefdes R12 
+\i (00:14:58) xrefdes R13 
+\i (00:14:58) xrefdes R15 
+\i (00:14:58) xrefdes J3 
+\i (00:14:58) xNet Miso 
+\i (00:14:58) xNet Sck 
+\i (00:14:58) xNet Mosi 
+\i (00:14:58) xname_flush 
+\i (00:14:58) trapsize 2472
+\t (00:14:58) 4 Net(s) highlighted.
+\t (00:14:58) 13 Component(s) highlighted.
+\i (00:14:58) done 
+\i (00:14:58) generaledit 
+\i (00:15:08) xdehilite 
+\i (00:15:08) xNet Gnd 
+\i (00:15:08) xNet Vcc 
+\i (00:15:08) xname_flush 
+\t (00:15:08) Net "Gnd" dehighlighted.
+\t (00:15:08) Net "Vcc" dehighlighted.
+\i (00:15:08) done 
+\i (00:15:08) generaledit 
+\i (00:15:41) xhilite 
+\i (00:15:41) xNet Rxd 
+\i (00:15:41) xrefdes U1 
+\i (00:15:41) xrefdes C5 
+\i (00:15:41) xrefdes C9 
+\i (00:15:41) xNet N49165 
+\i (00:15:41) xNet Vcc 
+\i (00:15:41) xNet Gnd 
+\i (00:15:41) xrefdes J2 
+\i (00:15:41) xrefdes C6 
+\i (00:15:41) xrefdes R6 
+\i (00:15:41) xrefdes R5 
+\i (00:15:41) xNet D+ 
+\i (00:15:41) xNet D- 
+\i (00:15:41) xNet +5V 
+\i (00:15:41) xrefdes C3 
+\i (00:15:41) xrefdes C2 
+\i (00:15:41) xrefdes Y2 
+\i (00:15:41) xNet N41098 
+\i (00:15:41) xrefdes R8 
+\i (00:15:41) xNet N41106 
+\i (00:15:41) xNet N02483 
+\i (00:15:41) xNet N02615 
+\i (00:15:41) xrefdes C4 
+\i (00:15:41) xNet N03527 
+\i (00:15:41) xrefdes R7 
+\i (00:15:41) xrefdes R2 
+\i (00:15:41) xrefdes J1 
+\i (00:15:41) xrefdes R3 
+\i (00:15:41) xrefdes R4 
+\i (00:15:41) xrefdes R14 
+\i (00:15:41) xNet N06839 
+\i (00:15:41) xNet N06967 
+\i (00:15:41) xNet N07033 
+\i (00:15:41) xNet N07247 
+\i (00:15:41) xNet Bmiso 
+\i (00:15:41) xNet Bsck 
+\i (00:15:41) xNet Bmosi 
+\i (00:15:41) xNet Breset 
+\i (00:15:41) xrefdes C1 
+\i (00:15:41) xrefdes C10 
+\i (00:15:41) xNet N11951 
+\i (00:15:41) xrefdes R1 
+\i (00:15:41) xNet Txd 
+\i (00:15:41) xname_flush 
+\t (00:15:41) 22 Net(s) highlighted.
+\t (00:15:41) 21 Component(s) highlighted.
+\i (00:15:41) done 
+\i (00:15:41) generaledit 
+\i (00:15:46) xdehilite 
+\i (00:15:46) xNet Rxd 
+\i (00:15:46) xrefdes U1 
+\i (00:15:46) xrefdes C5 
+\i (00:15:46) xrefdes C9 
+\i (00:15:46) xNet N49165 
+\i (00:15:46) xNet Vcc 
+\i (00:15:46) xNet Gnd 
+\i (00:15:46) xrefdes J2 
+\i (00:15:46) xrefdes C6 
+\i (00:15:46) xrefdes R6 
+\i (00:15:46) xrefdes R5 
+\i (00:15:46) xNet D+ 
+\i (00:15:46) xNet D- 
+\i (00:15:46) xNet +5V 
+\i (00:15:46) xrefdes C3 
+\i (00:15:46) xrefdes C2 
+\i (00:15:46) xrefdes Y2 
+\i (00:15:46) xNet N41098 
+\i (00:15:46) xrefdes R8 
+\i (00:15:46) xNet N41106 
+\i (00:15:46) xNet N02483 
+\i (00:15:46) xNet N02615 
+\i (00:15:46) xrefdes C4 
+\i (00:15:46) xNet N03527 
+\i (00:15:46) xrefdes R7 
+\i (00:15:46) xrefdes R2 
+\i (00:15:46) xrefdes J1 
+\i (00:15:46) xrefdes R3 
+\i (00:15:46) xrefdes R4 
+\i (00:15:46) xrefdes R14 
+\i (00:15:46) xNet N06839 
+\i (00:15:46) xNet N06967 
+\i (00:15:46) xNet N07033 
+\i (00:15:46) xNet N07247 
+\i (00:15:46) xNet Bmiso 
+\i (00:15:46) xNet Bsck 
+\i (00:15:46) xNet Bmosi 
+\i (00:15:46) xNet Breset 
+\i (00:15:46) xrefdes C1 
+\i (00:15:46) xrefdes C10 
+\i (00:15:46) xNet N11951 
+\i (00:15:46) xrefdes R1 
+\i (00:15:46) xNet Txd 
+\i (00:15:46) xname_flush 
+\t (00:15:46) 22 Net(s) dehighlighted.
+\t (00:15:46) 21 Component(s) dehighlighted.
+\i (00:15:46) done 
+\i (00:15:46) generaledit 
+\i (00:15:50) xhilite 
+\i (00:15:50) xNet Rxd 
+\i (00:15:50) xrefdes U1 
+\i (00:15:50) xrefdes C5 
+\i (00:15:50) xrefdes C9 
+\i (00:15:50) xNet N49165 
+\i (00:15:50) xNet Vcc 
+\i (00:15:50) xNet Gnd 
+\i (00:15:50) xrefdes J2 
+\i (00:15:50) xrefdes C6 
+\i (00:15:50) xrefdes R6 
+\i (00:15:50) xrefdes R5 
+\i (00:15:50) xNet D+ 
+\i (00:15:50) xNet D- 
+\i (00:15:50) xNet +5V 
+\i (00:15:50) xrefdes C3 
+\i (00:15:50) xrefdes C2 
+\i (00:15:50) xrefdes Y2 
+\i (00:15:50) xNet N41098 
+\i (00:15:50) xrefdes R8 
+\i (00:15:50) xNet N41106 
+\i (00:15:50) xNet N02483 
+\i (00:15:50) xNet N02615 
+\i (00:15:50) xrefdes C4 
+\i (00:15:50) xNet N03527 
+\i (00:15:50) xrefdes R7 
+\i (00:15:50) xrefdes R2 
+\i (00:15:50) xrefdes R3 
+\i (00:15:50) xrefdes R4 
+\i (00:15:50) xrefdes R14 
+\i (00:15:50) xNet N06839 
+\i (00:15:50) xNet N06967 
+\i (00:15:50) xNet N07033 
+\i (00:15:50) xNet N07247 
+\i (00:15:50) xNet Bmiso 
+\i (00:15:50) xNet Bsck 
+\i (00:15:50) xNet Bmosi 
+\i (00:15:50) xNet Breset 
+\i (00:15:50) xrefdes C1 
+\i (00:15:50) xrefdes C10 
+\i (00:15:50) xNet N11951 
+\i (00:15:50) xrefdes R1 
+\i (00:15:50) xNet Txd 
+\i (00:15:50) xname_flush 
+\t (00:15:50) 22 Net(s) highlighted.
+\t (00:15:50) 20 Component(s) highlighted.
+\i (00:15:50) done 
+\i (00:15:50) generaledit 
+\i (00:15:51) xhilite 
+\i (00:15:51) xrefdes U1 
+\i (00:15:51) xrefdes C5 
+\i (00:15:51) xrefdes C9 
+\i (00:15:51) xrefdes J2 
+\i (00:15:51) xrefdes C6 
+\i (00:15:51) xrefdes R6 
+\i (00:15:51) xrefdes R5 
+\i (00:15:51) xrefdes C3 
+\i (00:15:51) xrefdes C2 
+\i (00:15:51) xrefdes Y2 
+\i (00:15:51) xrefdes R8 
+\i (00:15:51) xrefdes C4 
+\i (00:15:51) xrefdes R7 
+\i (00:15:51) xrefdes R2 
+\i (00:15:51) xrefdes J1 
+\i (00:15:51) xrefdes R3 
+\i (00:15:51) xrefdes R4 
+\i (00:15:51) xrefdes R14 
+\i (00:15:51) xrefdes C1 
+\i (00:15:51) xrefdes C10 
+\i (00:15:51) xrefdes R1 
+\i (00:15:51) xname_flush 
+\t (00:15:51) 21 Component(s) highlighted.
+\i (00:15:51) done 
+\i (00:15:51) generaledit 
+\i (00:15:54) xdehilite 
+\i (00:15:54) xNet Rxd 
+\i (00:15:54) xrefdes U1 
+\i (00:15:54) xrefdes C5 
+\i (00:15:54) xrefdes C9 
+\i (00:15:54) xNet N49165 
+\i (00:15:54) xNet Vcc 
+\i (00:15:54) xNet Gnd 
+\i (00:15:54) xrefdes J2 
+\i (00:15:54) xrefdes C6 
+\i (00:15:54) xrefdes R6 
+\i (00:15:54) xrefdes R5 
+\i (00:15:54) xNet D+ 
+\i (00:15:54) xNet D- 
+\i (00:15:54) xNet +5V 
+\i (00:15:54) xrefdes C3 
+\i (00:15:54) xrefdes C2 
+\i (00:15:54) xrefdes Y2 
+\i (00:15:54) xNet N41098 
+\i (00:15:54) xrefdes R8 
+\i (00:15:54) xNet N41106 
+\i (00:15:54) xNet N02483 
+\i (00:15:54) xNet N02615 
+\i (00:15:54) xrefdes C4 
+\i (00:15:54) xNet N03527 
+\i (00:15:54) xrefdes R7 
+\i (00:15:54) xrefdes R2 
+\i (00:15:54) xrefdes J1 
+\i (00:15:54) xrefdes R3 
+\i (00:15:54) xrefdes R4 
+\i (00:15:54) xrefdes R14 
+\i (00:15:54) xNet N06839 
+\i (00:15:54) xNet N06967 
+\i (00:15:54) xNet N07033 
+\i (00:15:54) xNet N07247 
+\i (00:15:54) xNet Bmiso 
+\i (00:15:54) xNet Bsck 
+\i (00:15:54) xNet Bmosi 
+\i (00:15:54) xNet Breset 
+\i (00:15:54) xrefdes C1 
+\i (00:15:54) xrefdes C10 
+\i (00:15:54) xNet N11951 
+\i (00:15:54) xrefdes R1 
+\i (00:15:54) xNet Txd 
+\i (00:15:54) xname_flush 
+\t (00:15:54) 22 Net(s) dehighlighted.
+\t (00:15:54) 21 Component(s) dehighlighted.
+\i (00:15:54) done 
+\i (00:15:54) generaledit 
+\i (00:17:09) xhilite 
+\i (00:17:09) xname_flush 
+\i (00:17:09) done 
+\i (00:17:09) generaledit 
+\i (00:17:12) xdehilite 
+\i (00:17:12) xname_flush 
+\i (00:17:12) done 
+\i (00:17:12) generaledit 
+\i (00:17:24) xhilite 
+\i (00:17:24) xNet Rxd 
+\i (00:17:24) xname_flush 
+\i (00:17:24) trapsize 1488
+\t (00:17:24) Net "Rxd" highlighted.
+\i (00:17:24) done 
+\i (00:17:24) generaledit 
+\i (00:17:25) xdehilite 
+\i (00:17:25) xNet Rxd 
+\i (00:17:25) xname_flush 
+\t (00:17:25) Net "Rxd" dehighlighted.
+\i (00:17:25) done 
+\i (00:17:25) generaledit 
+\i (00:17:27) xhilite 
+\i (00:17:27) xname_flush 
+\i (00:17:27) done 
+\i (00:17:27) generaledit 
+\i (00:17:28) xdehilite 
+\i (00:17:28) xname_flush 
+\i (00:17:28) done 
+\i (00:17:28) xhilite 
+\i (00:17:28) xname_flush 
+\i (00:17:28) done 
+\i (00:17:28) generaledit 
+\i (00:17:30) xdehilite 
+\i (00:17:31) xname_flush 
+\i (00:17:31) done 
+\i (00:17:31) xhilite 
+\i (00:17:31) xname_flush 
+\i (00:17:31) done 
+\i (00:17:31) generaledit 
+\i (00:17:32) xdehilite 
+\i (00:17:32) xname_flush 
+\i (00:17:32) done 
+\i (00:17:32) generaledit 
+\i (00:17:51) zoom out 1 
+\i (00:17:51) setwindow pcb
+\i (00:17:51) zoom out 67.1192 22.0996
+\i (00:17:51) trapsize 2975
+\i (00:17:51) zoom out 1 
+\i (00:17:51) setwindow pcb
+\i (00:17:51) zoom out 67.1193 22.0996
+\i (00:17:51) trapsize 5950
+\i (00:17:58) shape add rect 
+\i (00:18:01) setwindow form.mini
+\i (00:18:01) FORM mini subclass TOP 
+\i (00:18:02) FORM mini dyns_netname_list  
+\i (00:18:06) fillin "Gnd"
+\t (00:18:06) Assigning selected shape to net: GND
+\i (00:18:07) setwindow pcb
+\i (00:18:07) pick grid -2.3986 46.7334
+\t (00:18:07) last pick:  -2.5400 46.9900
+\i (00:18:08) pick grid 115.7719 -1.3440
+\t (00:18:08) last pick:  115.5700 -1.2700
+\i (00:18:16) assign color 
+\i (00:18:18) setwindow form.mini
+\i (00:18:18) FORM mini color_choose  
+\i (00:18:19) cvf_chooser 33 
+\i (00:18:25) setwindow pcb
+\i (00:18:25) shape select 
+\i (00:18:26) pick grid 63.2914 40.6642
+\t (00:18:26) last pick:  63.5000 40.6400
+\i (00:18:28) pick grid 64.4814 58.6338
+\t (00:18:28) last pick:  64.7700 58.4200
+\w (00:18:28) WARNING(SPMHGE-604): No editable vertex was found.
+\i (00:18:30) undo 
+\i (00:18:30) trapsize 5950
+\i (00:18:30) generaledit 
+\i (00:18:31) undo 
+\i (00:18:31) trapsize 5950
+\i (00:18:31) generaledit 
+\i (00:18:32) undo 
+\i (00:18:32) trapsize 5950
+\i (00:18:32) generaledit 
+\i (00:18:38) shape add rect 
+\i (00:18:41) setwindow form.mini
+\i (00:18:41) FORM mini subclass TOP 
+\i (00:18:42) FORM mini dyns_netname_list  
+\i (00:18:45) fillin "Gnd"
+\t (00:18:45) Assigning selected shape to net: GND
+\i (00:18:47) setwindow pcb
+\i (00:18:47) assign color 
+\i (00:18:50) pick grid -1.5656 44.8294
+\t (00:18:50) last pick:  -1.2700 45.0850
+\i (00:19:00) shape add rect 
+\i (00:19:02) setwindow form.mini
+\i (00:19:02) FORM mini dyns_netname_list  
+\i (00:19:06) fillin "Gnd"
+\t (00:19:06) Assigning selected shape to net: GND
+\i (00:19:06) setwindow pcb
+\i (00:19:06) pick grid -0.3755 45.6624
+\t (00:19:06) last pick:  -0.6350 45.7200
+\i (00:19:08) pick grid 110.0597 -0.8680
+\t (00:19:08) last pick:  109.8550 -0.6350
+\i (00:19:10) assign color 
+\i (00:19:16) setwindow form.vf_vis
+\i (00:19:16) FORM vf_vis colorview_list Film: BOTTOM 
+\i (00:19:18) FORM vf_vis colorview_list Film: TOP 
+\i (00:19:19) setwindow pcb
+\i (00:19:19) zoom in 1 
+\i (00:19:19) setwindow pcb
+\i (00:19:19) zoom in 113.7489 5.2012
+\i (00:19:19) trapsize 2975
+\i (00:19:21) roam y 96 
+\i (00:19:21) roam y 96
+\i (00:19:21) roam x -96 
+\i (00:19:21) roam x -96
+\i (00:19:21) roam x -96 
+\i (00:19:21) roam x -96
+\i (00:19:21) roam x -96 
+\i (00:19:21) roam x -96
+\i (00:19:21) roam x -96 
+\i (00:19:21) roam x -96
+\i (00:19:22) zoom out 1 
+\i (00:19:22) setwindow pcb
+\i (00:19:22) zoom out 91.4357 -0.3755
+\i (00:19:22) trapsize 5950
+\i (00:20:05) xNet Vcc 
+\i (00:20:05) xname_flush 
+\i (00:20:05) trapsize 2937
+\t (00:20:05) Net "Vcc" assigned color.
+\i (00:20:07) xNet Vcc 
+\i (00:20:07) xname_flush 
+\i (00:20:07) trapsize 2937
+\t (00:20:07) Net "Vcc" assigned color.
+\i (00:20:10) xNet Vcc 
+\i (00:20:10) xname_flush 
+\i (00:20:10) trapsize 2937
+\t (00:20:10) Net "Vcc" assigned color.
+\i (00:20:17) xname_flush 
+\i (00:20:18) xname_flush 
+\i (00:21:20) xname_flush 
+\i (00:28:33) zoom out 1 
+\i (00:28:33) setwindow pcb
+\i (00:28:33) zoom out 50.9675 20.7714
+\i (00:28:33) trapsize 5875
+\i (00:28:37) shape select 
+\i (00:28:41) pick grid 19.1256 39.8060
+\t (00:28:41) last pick:  19.0500 40.0050
+\i (00:28:44) delete 
+\i (00:28:48) delete 
+\i (00:28:50) shape select 
+\i (00:28:53) pick grid 20.6531 38.7486
+\t (00:28:53) last pick:  20.9550 38.7350
+\i (00:28:57) delete 
+\i (00:29:00) pick grid 21.7105 39.4535
+\t (00:29:00) last pick:  21.5900 39.3700
+\t (00:29:00) Dynamic Shape "Gnd, Boundary/Top"
+\i (00:29:02) pick grid 31.5803 59.3107
+\t (00:29:02) last pick:  31.7500 59.0550
+\i (00:29:04) delete 
+\i (00:29:07) shape select 
+\i (00:29:14) setwindow form.vf_vis
+\i (00:29:14) FORM vf_vis colorview_list Film: BOTTOM 
+\i (00:29:16) setwindow pcb
+\i (00:29:16) pick grid 47.7950 7.0242
+\t (00:29:16) last pick:  47.6250 6.9850
+\i (00:29:17) pick grid 49.3225 59.1932
+\t (00:29:17) last pick:  49.5300 59.0550
+\w (00:29:17) WARNING(SPMHGE-604): No editable vertex was found.
+\i (00:29:19) pick grid 41.0977 59.6632
+\t (00:29:19) last pick:  41.2750 59.6900
+\w (00:29:19) WARNING(SPMHGE-604): No editable vertex was found.
+\i (00:29:20) delete 
+\i (00:29:21) pick grid 44.1526 6.3192
+\t (00:29:21) last pick:  44.4500 6.3500
+\t (00:29:21) Dynamic Shape "Gnd, Boundary/Bottom"
+\i (00:29:22) pick grid 54.0224 59.5457
+\t (00:29:22) last pick:  53.9750 59.6900
+\i (00:29:24) setwindow form.vf_vis
+\i (00:29:24) FORM vf_vis all_all_visible YES 
+\i (00:29:30) setwindow pcb
+\i (00:29:30) delete 
+\i (00:29:35) shape select 
+\i (00:29:37) pick grid 38.7477 6.7892
+\t (00:29:37) last pick:  38.7350 6.9850
+\i (00:29:38) pick grid 53.3174 57.7832
+\t (00:29:38) last pick:  53.3400 57.7850
+\w (00:29:38) WARNING(SPMHGE-604): No editable vertex was found.
+\i (00:29:39) pick grid 41.3327 9.2566
+\t (00:29:39) last pick:  41.2750 9.5250
+\w (00:29:39) WARNING(SPMHGE-604): No editable vertex was found.
+\i (00:29:40) delete 
+\i (00:29:42) pick grid 41.2152 6.9067
+\t (00:29:42) last pick:  41.2750 6.9850
+\t (00:29:42) Dynamic Shape "Gnd, Boundary/Top"
+\i (00:29:43) pick grid 48.3825 60.7206
+\t (00:29:43) last pick:  48.2600 60.9600
+\i (00:29:46) zoom in 1 
+\i (00:29:46) setwindow pcb
+\i (00:29:46) zoom in 45.4451 6.0842
+\i (00:29:46) trapsize 2937
+\i (00:29:49) zoom out 1 
+\i (00:29:49) setwindow pcb
+\i (00:29:49) zoom out 76.3470 1.9130
+\i (00:29:49) trapsize 5875
+\i (00:29:51) undo 
+\i (00:29:51) trapsize 5875
+\i (00:29:51) generaledit 
+\i (00:30:38) exit 
+\e (00:30:38) Do you want to save the changes you made to AVRUSB500.brd?
+\i (00:30:40) fillin no 
+\t (00:30:40)     Journal end - Fri Jul 19 09:39:38 2019
